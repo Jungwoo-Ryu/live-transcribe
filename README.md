@@ -107,3 +107,4 @@ See `VALIDATION.md` for actual coverage and limitations. Code is under the inclu
 - [OpenAI GPT-4.1 mini model documentation](https://developers.openai.com/api/docs/models/gpt-4.1-mini)
 - [Electron capture](https://www.electronjs.org/docs/latest/api/desktop-capturer)
 - [faster-whisper](https://github.com/SYSTRAN/faster-whisper)
+# live-transcribe
