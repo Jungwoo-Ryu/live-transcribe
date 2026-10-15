@@ -1,0 +1,132 @@
+[
+  {
+    "path": "package.json",
+    "bytes": 477,
+    "sha256": "ea9afa8a636e92bc42a9badfaa0fcac496392e03bb3e6bfe6fa9657c72a86bc3"
+  },
+  {
+    "path": "LICENSE",
+    "bytes": 1087,
+    "sha256": "b5bd2fe42357b7454cf6069c1f1aa3ff7fc6a890e7ce939e324b75205fdfce42"
+  },
+  {
+    "path": "THIRD_PARTY.md",
+    "bytes": 1215,
+    "sha256": "eb901ec581adf501e883477af107489b3c7a95a95dcde9343e64e189c9ed001d"
+  },
+  {
+    "path": ".gitignore",
+    "bytes": 53,
+    "sha256": "01f15e84cdca7518b9f3c9e0f1abace3abbad836bdd73ce17b12643c98059b3b"
+  },
+  {
+    "path": "package-lock.json",
+    "bytes": 5795,
+    "sha256": "5ea1a9870daa9ca0e87d068810bef29aed8b3dd00fab1613afe1474945f6bc7d"
+  },
+  {
+    "path": "Setup-Windows.cmd",
+    "bytes": 391,
+    "sha256": "271bd1d0ca76965c08c2bed62e982e0f227ce36fa21c8f16aa56d8b3c2d65321"
+  },
+  {
+    "path": "README.md",
+    "bytes": 8858,
+    "sha256": "ca0399a88b471485c70430122a6a92a0f718b49e93acdc65ffac988d52029ff8"
+  },
+  {
+    "path": "Start-Windows.cmd",
+    "bytes": 285,
+    "sha256": "2273cc30061f8012c46cd880deadcf95a2df88eb01631900738ad00bd4d02d33"
+  },
+  {
+    "path": "VALIDATION.md",
+    "bytes": 2176,
+    "sha256": "d0e7d7a66d14bc7d580f8e987c172d04fe5a982dd74c36b0853edbe61f331793"
+  },
+  {
+    "path": "python/requirements.txt",
+    "bytes": 48,
+    "sha256": "81137d8d5282c50a48389a3c05096e71ddd7de6cf6f9f5776ce9fa1d4173fd68"
+  },
+  {
+    "path": "python/speech.py",
+    "bytes": 3281,
+    "sha256": "abd4b76fc5639418cdb061bedf534f6a7bbe08ba3a054de5bf838e07fe4abd28"
+  },
+  {
+    "path": "test/desktop-smoke.cjs",
+    "bytes": 7229,
+    "sha256": "0ba93c1fefbedea3f86656509cd56d9c3b00f6fd742dcc31a42c827f63209be3"
+  },
+  {
+    "path": "test/core.test.cjs",
+    "bytes": 6546,
+    "sha256": "65d1f8664cd8a5c200de7680348953a5638d5d4cb11190e0a62c85890f01be55"
+  },
+  {
+    "path": "test/live-translation.test.cjs",
+    "bytes": 3568,
+    "sha256": "171391e1b26abc445bb97d174aa50d728f0b22a4e90a5eb4f770a10106e899b8"
+  },
+  {
+    "path": "app/overlay.js",
+    "bytes": 718,
+    "sha256": "2bf229b4db1a073867dd5fc74aacfb9c4ed57de7d5be29ffdf9a1557b80ec3eb"
+  },
+  {
+    "path": "app/overlay.html",
+    "bytes": 626,
+    "sha256": "4f6c3ed5877260b4d8665244d86f0aa998e044394b46a02015ecccc29989ae0f"
+  },
+  {
+    "path": "app/core.cjs",
+    "bytes": 15113,
+    "sha256": "2a6177b672a6522fbb7db7af676c166b58236094b1571d7ee72259643613fc56"
+  },
+  {
+    "path": "app/overlay.css",
+    "bytes": 744,
+    "sha256": "c7bfa09e364c6a552773d6775ba284f6fbe13056f81e71bb61d0a847eb18be5a"
+  },
+  {
+    "path": "app/capture-worklet.js",
+    "bytes": 1208,
+    "sha256": "bd170510cbd7b50c1cc4241b36e7906c572f91c712a5550db0747fb2f405033a"
+  },
+  {
+    "path": "app/style.css",
+    "bytes": 10487,
+    "sha256": "120e1e129bf4979a7ec76454e119fe3de4a7cd9e8be1e2bfd51e625cd1f950d0"
+  },
+  {
+    "path": "app/main.cjs",
+    "bytes": 16789,
+    "sha256": "41f7444470418de31265813f454957f793017cc602e452a9f1cc34d468a5abfb"
+  },
+  {
+    "path": "app/renderer.js",
+    "bytes": 20532,
+    "sha256": "76e1eea9c88a554401b46e768b71451c2ba4fbeb7f1074e3b78e79ce3e425945"
+  },
+  {
+    "path": "app/preload.cjs",
+    "bytes": 805,
+    "sha256": "4333d308426852b5e2a2f072d1626e9a6bab8ea9ee99a75432adc841515b9749"
+  },
+  {
+    "path": "app/index.html",
+    "bytes": 9736,
+    "sha256": "051e416f68d5ab172b20e85f3a10979c5c4cad2391f5d78c5821ec15faada4d4"
+  },
+  {
+    "path": "scripts/setup-speech.cjs",
+    "bytes": 1373,
+    "sha256": "2613a04a0b1dc3412b5b5053138c63abc4af9065a0d84e100769c3e8b7098349"
+  },
+  {
+    "path": "scripts/check.cjs",
+    "bytes": 465,
+    "sha256": "e06f4f4bc2f9e0b19b1f6aa25ec4ccac1f21500e76f658c02bf04055897d5852"
+  }
+]
